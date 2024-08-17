@@ -19,7 +19,7 @@ v2.5 fix by RaideN-
 */
 //--------------------------------------------------------------------------------------------------
 class RespawnMut extends Mutator
-	config(ServerPerks);
+	config(RespawnMut);
 
 struct PlayerSpawnInfo
 {
